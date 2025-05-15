@@ -1,0 +1,6 @@
+train: D:\Medical Waste\data-augment\data-augment-multiple\train
+val: D:\Medical Waste\data-augment\data-augment-multiple\valid
+test: D:\Medical Waste\data-augment\data-augment-multiple\test
+
+nc: 14
+names: ['Bandage', 'Diskus_inhaler', 'Vial', 'Swan', 'Glove', 'Test_tube', 'Scalpel', 'Mask', 'Inhaler', 'IV_tube', 'Syringe', 'Needle', 'Pill', 'Plastic_bag']
